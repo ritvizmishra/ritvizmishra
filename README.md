@@ -5,7 +5,7 @@
 
 - 🌍 I’m based in **Greater Noida, India.**
 
-- 🌱 I’m currently learning **Web-Development and Data Structures and Algorithms among others.**
+- 🌱 I’m currently learning **Web-Development and Data Structures and Algorithms, among others.**
 
 - 👨‍💻 Get a quick outline about me in *[My Portfolio](https://ritviz-mishra-web-profile.on.drv.tw/www.ritviz-portfolio.com/)*
 
