@@ -1,22 +1,15 @@
 <h1 align="center">Hey! 👋, This is Ritviz Mishra.</h1>
-<h3 align="center">Persistent Learner and Tech-Admirer</h3>
+<h3 align="center">Software Developer and Innovative Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvizmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ritvizmishra" /> </p>
 
 - 🌍 I’m based in **Greater Noida, India.**
 
-- 🌱 I’m currently learning **Web-Development and Data Structures and Algorithms, among others.**
+- 🌱 I’m currently learning **Front-End Development and Data Structures and Algorithms, among others.**
 
 - 👨‍💻 Get a quick outline about me in *[My Portfolio](https://ritviz-mishra-web-site.on.drv.tw/www.ritviz-portfolio.com/)*
 
 - 📫 Reach me at **1822mritviz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritvizmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritvizmishra" height="30" width="40" /></a>
-<a href="https://instagram.com/rxtvxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whachyudoinnnnn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritvizmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritvizmishra" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,6 +36,13 @@
 <!--    MySql -->
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ritvizmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritvizmishra" height="30" width="40" /></a>
+<a href="https://instagram.com/rxtvxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whachyudoinnnnn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ritvizmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritvizmishra" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritvizmishra&show_icons=true&locale=en&layout=compact" alt="ritvizmishra" /></p>
