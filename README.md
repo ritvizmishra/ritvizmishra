@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, This is Ritviz Mishra.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritvizmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ritvizmishra" /> </p>
-- 🌍 I’m based in **Greater Noida, India.**
-- 📫 Reach me at **1822mritviz@gmail.com**
+- 🌍 I’m based in Greater Noida, India. <br>
+- 📫 Reach me at 1822mritviz@gmail.com
 </p>
 
 <h3 align="left">Connect with me:</h3>
